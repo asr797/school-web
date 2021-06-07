@@ -1,0 +1,28 @@
+body{
+  text-align:center;
+  background-color:mediumblue;
+  
+}
+
+
+
+
+
+.menu{
+            list-style: none;
+            left: 100px;
+            top: 10px;
+            right: 30px; 
+            background-color: rgb(19, 0, 128);
+        
+        }
+        .links:hover{
+          background-color:green}
+.links{
+float: left;
+padding-left:100px;
+padding-top: 5px; 
+padding-right: 9px;
+padding-bottom: 5px;
+     left: 100px; 
+}
